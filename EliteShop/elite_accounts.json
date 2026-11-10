@@ -1,0 +1,20 @@
+{
+  "accounts": {
+    "aman": {
+      "username": "aman",
+      "password": "ec471a485cb3ab94fcfd9810cdc521bb8029f3a84fbb592cfb9a1d84567fc3cf",
+      "salt": "851dc1f286e2b39d3f0dea6e454bbf7d",
+      "balance": 10000,
+      "inventory": {},
+      "transactions": [],
+      "eligible_spending": 0,
+      "points": 0,
+      "lifetime_points": 0,
+      "points_redeemed": 0,
+      "achievements": [],
+      "categories_seen": [],
+      "boxes": [],
+      "purchase_count": 0
+    }
+  }
+}
